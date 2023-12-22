@@ -20,7 +20,7 @@
 <h3 align="left">My Github Stats:</h3>
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jisubshim&show_icons=true&locale=en&layout=compact" alt="jisubshim" /></p>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jisubshim&show_icons=true&locale=en" alt="jisubshim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jisubshim&" alt="jisubshim" /></p>
