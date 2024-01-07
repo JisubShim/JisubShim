@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Game Making from Unity Engine.**
 
-- 🌱 I'm **aspiring game front-end developer.**
+- 🌱 I'm aspiring **Game Client Developer.**
 
 - 📫 How to reach me **jisub5322@naver.com**
 
