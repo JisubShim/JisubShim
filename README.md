@@ -19,6 +19,6 @@
 <h3 align="left">📈 my github stats</h3>
 <br />
 
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jisubshim&hide=stars&show_icons=true&theme=gotham&locale=en" alt="jisubshim" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jisubshim&count_private=true&hide=stars&show_icons=true&theme=gotham&locale=en" alt="jisubshim" /></p>
 
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jisubshim&theme=gotham" alt="jisubshim" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jisubshim&count_private=true&theme=gotham" alt="jisubshim" /></p>
